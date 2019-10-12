@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@luma.gl/debug": "^7.3.1",
+    "deck.gl": "^7.3.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-map-gl": "^5.0.12",
     "react-scripts": "3.2.0"
   },
   "scripts": {
